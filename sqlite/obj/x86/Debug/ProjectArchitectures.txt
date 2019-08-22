@@ -1,0 +1,1 @@
+C:\Users\singh\source\repos\sqlite\sqlite\sqlite.csproj;x86
